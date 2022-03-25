@@ -1,0 +1,56 @@
+^Mr./Mr<n><sg>$ ^Brown/Brown<adj>/Brown<n><sg>/Brown<vblex><inf>/Brown<vblex><pres>$ ^is/be<vbser><pri><p3><sg>$ ^looking/look<vblex><ger>/look<vblex><pprs>/look<vblex><subs>$ ^for/for<cnjadv>/for<pr>$ ^his/his<adj><pos>/his<det><pos><sp>/his<prn><pos><mf><sp>$ ^glasses/glass<n><pl>/glass<vblex><pri><p3><sg>$
+^Miss/Miss<n><sg>/Miss<n><sg>/Miss<vblex><inf>/Miss<vblex><pres>$ ^Jackson/*Jackson$ ^did/do<vbdo><past>/do<vblex><past>$ ^not/not<adv>$ ^appear/appear<vblex><inf>/appear<vblex><pres>$
+^Tom/Tom<n><sg>/Tom<np><ant><m><sg>$ ^had/have<vbhaver><past>/have<vblex><past>/have<vblex><pp>$ ^his/his<adj><pos>/his<det><pos><sp>/his<prn><pos><mf><sp>$ ^socks/sock<n><pl>/sock<vblex><pri><p3><sg>$ ^on/on<adv>/on<pr>/on<n><sg>$ ^inside/inside<pr>/inside<n><sg>$ ^out/out<adv>/out<pr>/out<n><sg>/out<vblex><inf>/out<vblex><pres>$
+^I/prpers<prn><subj><p1><mf><sg>$ ^got/get<vblex><past>/get<vblex><pp>$ ^my/my<det><pos><sp>$ ^hair/hair<n><sg>$ ^cut/cut<n><sg>/cut<vblex><inf>/cut<vblex><pres>/cut<vblex><past>/cut<vblex><pp>$
+^The/The<det><def><sp>$ ^ice/ice<n><sg>/ice<vblex><inf>/ice<vblex><pres>$ ^will/will<n><sg>/will<vaux><inf>$ ^give/give<vblex><inf>/give<vblex><pres>$ ^under/under<adv>/under<pr>$ ^your/your<det><pos><sp>$ ^weight/weight<n><sg>/weight<vblex><inf>/weight<vblex><pres>$
+^Court/Court<n><sg>/Court<vblex><inf>/Court<vblex><pres>$^'s/'s<gen>$ ^adjourned/adjourn<vblex><past>/adjourn<vblex><pp>$
+^It/Prpers<prn><subj><p3><nt><sg>/Prpers<prn><obj><p3><nt><sg>$^'s/'s<gen>$ ^a/a<det><ind><sg>$ ^quarter/quarter<n><sg>/quarter<vblex><inf>/quarter<vblex><pres>$ ^past/past<adj>/past<adv>/past<n><sg>/past<vblex><inf>/past<vblex><pres>$ ^nine/nine<num><sg>$
+^The/The<det><def><sp>$ ^cat/cat<n><sg>/cat<vblex><inf>/cat<vblex><pres>$ ^meowed/*meowed$
+^I/prpers<prn><subj><p1><mf><sg>$ ^got/get<vblex><past>/get<vblex><pp>$ ^some/some<adv>/some<det><qnt><sp>/some<prn><tn><mf><pl>$ ^money/money<n><sg>$ ^from/from<pr>$ ^an/an<det><ind><sg>$ ^ATM/*ATM$
+^I/prpers<prn><subj><p1><mf><sg>$ ^had/have<vbhaver><past>/have<vblex><past>/have<vblex><pp>$ ^my/my<det><pos><sp>$ ^bicycle/bicycle<n><sg>/bicycle<vblex><inf>/bicycle<vblex><pres>$ ^stolen/steal<vblex><pp>$
+^I/prpers<prn><subj><p1><mf><sg>$^'/'<apos>$^ve/*ve$ ^never/never<adv>$ ^climbed/climb<vblex><past>/climb<vblex><pp>$ ^Mt/*Mt$
+^What/What<det><itg><sp>/What<prn><itg><m><sp>/What<rel><nn><mf><sg>$ ^is/be<vbser><pri><p3><sg>$ ^the/the<det><def><sp>$ ^scientific/scientific<adj>$ ^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>$ ^for/for<cnjadv>/for<pr>$ ^leech/*leech$
+^You/Prpers<prn><subj><p2><mf><sp>/Prpers<prn><obj><p2><mf><sp>$ ^stink/stink<n><sg>$ ^of/of<pr>$ ^cigarettes/cigarette<n><pl>$
+^Susan/Susan<np><ant><f><sg>$ ^shined/shine<vblex><past>/shine<vblex><pp>$ ^your/your<det><pos><sp>$ ^father/father<n><sg>/father<vblex><inf>/father<vblex><pres>$^'s/'s<gen>$ ^shoes/shoe<n><pl>/shoe<vblex><pri><p3><sg>$
+^I/prpers<prn><subj><p1><mf><sg>$ ^owe/owe<vblex><inf>/owe<vblex><pres>$ ^her/her<det><pos><sp>/prpers<prn><obj><p3><f><sg>$ ^thirty/thirty<num><sg>$ ^dollars/dollar<n><pl>$
+^What/What<det><itg><sp>/What<prn><itg><m><sp>/What<rel><nn><mf><sg>$ ^an/an<det><ind><sg>$ ^interesting/interest<vblex><ger>/interest<vblex><pprs>/interest<vblex><subs>/interesting<adj>$ ^novel/novel<adj>/novel<n><sg>$ ^this/this<n><sg>/this<det><dem><sg>/this<prn><tn><mf><sg>$ ^is/be<vbser><pri><p3><sg>$
+^Let/Let<vblex><inf>/Let<vblex><pres>/Let<vblex><past>/Let<vblex><pp>$^'s/'s<gen>$ ^not/not<adv>$ ^go/go<n><sg>/go<vblex><inf>/go<vblex><pres>$ ^to/to<pr>$ ^that/that<cnjsub>/that<det><dem><sg>/that<prn><tn><mf><sg>/that<rel><an><mf><sp>$ ^restaurant/restaurant<n><sg>$ ^again/again<adv>$
+^The/The<det><def><sp>$ ^mothers/mother<n><pl>/mother<vblex><pri><p3><sg>$ ^sew/sew<vblex><inf>/sew<vblex><pres>$
+^Tom/Tom<n><sg>/Tom<np><ant><m><sg>$ ^drove/drove<n><sg>/drive<vblex><past>$ ^to/to<pr>$ ^school/school<adj>/school<n><sg>/school<vblex><inf>/school<vblex><pres>$
+^Maybe/Maybe<adv>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^exaggerated/exaggerate<vblex><past>/exaggerate<vblex><pp>/exaggerated<adj><sint>$
+^A/A<det><ind><sg>$ ^bee/bee<n><sg>$ ^buzzes/buzz<n><pl>/buzz<vblex><pri><p3><sg>$
+^He/Prpers<prn><subj><p3><m><sg>$ ^gave/give<vblex><past>$ ^her/her<det><pos><sp>/prpers<prn><obj><p3><f><sg>$ ^mouth-to-mouth/*mouth-to-mouth$ ^resuscitation/resuscitation<n><sg>$
+^We/Prpers<prn><subj><p1><mf><pl>$ ^ate/eat<vblex><past>$ ^some/some<adv>/some<det><qnt><sp>/some<prn><tn><mf><pl>$ ^turtle/turtle<n><sg>/turtle<vblex><inf>/turtle<vblex><pres>$ ^soup/soup<n><sg>$
+^I/prpers<prn><subj><p1><mf><sg>$ ^met/meet<vblex><past>/meet<vblex><pp>$ ^a/a<det><ind><sg>$ ^wolf/wolf<n><sg>/wolf<vblex><inf>/wolf<vblex><pres>$ ^in/in<adv>/in<pr>$ ^a/a<det><ind><sg>$ ^dream/dream<n><sg>/dream<vblex><inf>/dream<vblex><pres>$
+^What/What<det><itg><sp>/What<prn><itg><m><sp>/What<rel><nn><mf><sg>$ ^does/do<vbdo><pri><p3><sg>/do<vblex><pri><p3><sg>$ ^the/the<det><def><sp>$ ^abbreviation/abbreviation<n><sg>$ ^GIA/*GIA$ ^stand/stand<n><sg>/stand<vblex><inf>/stand<vblex><pres>$ ^for/for<cnjadv>/for<pr>$
+^I/prpers<prn><subj><p1><mf><sg>$ ^missed/miss<vblex><past>/miss<vblex><pp>$ ^the/the<det><def><sp>$ ^7/7<num>$^:/:<sent>$^00/00<num>$ ^train/train<n><sg>/train<vblex><inf>/train<vblex><pres>$
+^Tom/Tom<n><sg>/Tom<np><ant><m><sg>$ ^pocketed/pocket<vblex><past>/pocket<vblex><pp>$ ^the/the<det><def><sp>$ ^keys/key<n><pl>/key<vblex><pri><p3><sg>$
+^Tom/Tom<n><sg>/Tom<np><ant><m><sg>$ ^turned/turn<vblex><past>/turn<vblex><pp>$ ^a/a<det><ind><sg>$ ^somersault/somersault<n><sg>/somersault<vblex><inf>/somersault<vblex><pres>$
+^The/The<det><def><sp>$ ^drug/drug<n><sg>/drug<vblex><inf>/drug<vblex><pres>$ ^smuggler/smuggler<n><sg>$ ^was/be<vbser><past><p3><sg>/be<vbser><past><p1><sg>$ ^arrested/arrest<vblex><past>/arrest<vblex><pp>$ ^at/at<pr>$ ^the/the<det><def><sp>$ ^airport/airport<n><sg>$
+^How/How<preadv>/How<adv><itg>$ ^much/much<adv>/much<det><qnt><sg>$ ^is/be<vbser><pri><p3><sg>$ ^this/this<n><sg>/this<det><dem><sg>/this<prn><tn><mf><sg>$ ^worth/worth<n><sg>/worth<vblex><inf>/worth<vblex><pres>$
+^She/Prpers<prn><subj><p3><f><sg>$ ^stained/stain<vblex><past>/stain<vblex><pp>$ ^the/the<det><def><sp>$ ^wall/wall<n><sg>/wall<vblex><inf>/wall<vblex><pres>$ ^beige/beige<adj>/beige<n><sg>$
+^The/The<det><def><sp>$ ^boy/boy<n><sg>$ ^carved/carve<vblex><past>/carve<vblex><pp>$ ^his/his<adj><pos>/his<det><pos><sp>/his<prn><pos><mf><sp>$ ^name/name<n><sg>/name<vblex><inf>/name<vblex><pres>$ ^into/into<pr>$ ^the/the<det><def><sp>$ ^tree/tree<n><sg>/tree<vblex><inf>/tree<vblex><pres>$
+^I/prpers<prn><subj><p1><mf><sg>$^'/'<apos>$^ve/*ve$ ^been/be<vbser><pp>$ ^subpoenaed/subpoena<vblex><past>/subpoena<vblex><pp>$
+^A/A<det><ind><sg>$ ^man/man<n><sg>/man<vblex><inf>/man<vblex><pres>$ ^is/be<vbser><pri><p3><sg>$ ^holding/hold<vblex><ger>/hold<vblex><pprs>/hold<vblex><subs>/holding<n><sg>$ ^a/a<det><ind><sg>$ ^frog/frog<n><sg>/frog<vblex><inf>/frog<vblex><pres>$
+^Something/Something<prn><tn><nt><sg>$ ^bit/bit<n><sg>/bit<vblex><inf>/bit<vblex><pres>/bite<vblex><past>$ ^me/prpers<prn><obj><p1><mf><sg>$
+^The/The<det><def><sp>$ ^clocks/clock<n><pl>/clock<vblex><pri><p3><sg>$ ^in/in<adv>/in<pr>$ ^the/the<det><def><sp>$ ^city/city<n><sg>$ ^were/be<vbser><past>$ ^striking/strike<vblex><ger>/strike<vblex><pprs>/strike<vblex><subs>/striking<adj><sint>$ ^ten/ten<num><sg>$
+^His/His<adj><pos>/His<det><pos><sp>/His<prn><pos><mf><sp>$ ^pencil/pencil<n><sg>/pencil<vblex><inf>/pencil<vblex><pres>$ ^has/have<vbhaver><pri><p3><sg>/have<vblex><pri><p3><sg>$ ^been/be<vbser><pp>$ ^sharpened/sharpen<vblex><past>/sharpen<vblex><pp>$
+^The/The<det><def><sp>$ ^thermometer/thermometer<n><sg>$ ^reads/read<n><pl>/read<vblex><pri><p3><sg>$ ^10/10<num>$ ^degrees/degree<n><pl>$
+^No/No<adv>/No<det><ind><sg>$ ^one/one<num><sg>/one<prn><tn><mf><sg>$^'s/'s<gen>$ ^gambling/gamble<vblex><ger>/gamble<vblex><pprs>/gamble<vblex><subs>/gambling<n><sg>$
+^The/The<det><def><sp>$ ^top/top<adj>/top<n><sg>/top<vblex><inf>/top<vblex><pres>$ ^of/of<pr>$ ^Mt/*Mt$
+^The/The<det><def><sp>$ ^teapot/teapot<n><sg>$ ^broke/break<vblex><past>$
+^We/Prpers<prn><subj><p1><mf><pl>$ ^always/always<adv>$ ^looked/look<vblex><past>/look<vblex><pp>$ ^down/down<adv>/down<n><sg>/down<vblex><inf>/down<vblex><pres>$ ^on/on<adv>/on<pr>/on<n><sg>$ ^him/prpers<prn><obj><p3><m><sg>$
+^Tom/Tom<n><sg>/Tom<np><ant><m><sg>$ ^had/have<vbhaver><past>/have<vblex><past>/have<vblex><pp>$ ^jet/jet<n><sg>/jet<vblex><inf>/jet<vblex><pres>$ ^lag/lag<n><sg>/lag<vblex><inf>/lag<vblex><pres>$
+^Shall/Shall<vaux><inf>$ ^I/prpers<prn><subj><p1><mf><sg>$ ^carry/carry<n><sg>/carry<vblex><inf>/carry<vblex><pres>$ ^your/your<det><pos><sp>$ ^coat/coat<n><sg>/coat<vblex><inf>/coat<vblex><pres>$
+^My/My<det><pos><sp>$ ^wisdom/wisdom<n><sg>$ ^tooth/tooth<n><sg>/tooth<vblex><inf>/tooth<vblex><pres>$ ^hurts/hurt<n><pl>/hurt<vblex><pri><p3><sg>$
+^I/prpers<prn><subj><p1><mf><sg>$ ^can/can<n><sg>/can<vaux><pres>$^'/'<apos>$^t/*t$ ^kiss/kiss<n><sg>/kiss<vblex><inf>/kiss<vblex><pres>$ ^you/prpers<prn><subj><p2><mf><sp>/prpers<prn><obj><p2><mf><sp>$ ^now/now<adv>/now<n><sg>$
+^I/prpers<prn><subj><p1><mf><sg>$ ^had/have<vbhaver><past>/have<vblex><past>/have<vblex><pp>$ ^a/a<det><ind><sg>$ ^tooth/tooth<n><sg>/tooth<vblex><inf>/tooth<vblex><pres>$ ^pulled/pull<vblex><past>/pull<vblex><pp>$
+^The/The<det><def><sp>$ ^penis/penis<n><sg>$ ^entered/enter<vblex><past>/enter<vblex><pp>$ ^the/the<det><def><sp>$ ^vagina/vagina<n><sg>$
+^Her/Her<det><pos><sp>/Prpers<prn><obj><p3><f><sg>$ ^villa/villa<n><sg>$ ^sits/sit<vblex><pri><p3><sg>$ ^on/on<adv>/on<pr>/on<n><sg>$ ^the/the<det><def><sp>$ ^hill/hill<n><sg>/hill<vblex><inf>/hill<vblex><pres>$
+^Tom/Tom<n><sg>/Tom<np><ant><m><sg>$ ^split/split<n><sg>/split<vblex><inf>/split<vblex><pres>/split<vblex><past>/split<vblex><pp>$ ^the/the<det><def><sp>$ ^bill/bill<n><sg>/bill<vblex><inf>/bill<vblex><pres>$ ^with/with<pr>$ ^Mary/Mary<np><ant><f><sg>$
+^Mary/Mary<np><ant><f><sg>$ ^giggled/giggle<vblex><past>/giggle<vblex><pp>$
+^That/That<cnjsub>/That<det><dem><sg>/That<prn><tn><mf><sg>/That<rel><an><mf><sp>$ ^was/be<vbser><past><p3><sg>/be<vbser><past><p1><sg>$ ^your/your<det><pos><sp>$ ^plan/plan<n><sg>/plan<vblex><inf>/plan<vblex><pres>$^,/,<cm>$ ^wasn/*wasn$^'/'<apos>$^t/*t$ ^it/prpers<prn><subj><p3><nt><sg>/prpers<prn><obj><p3><nt><sg>$
+^She/Prpers<prn><subj><p3><f><sg>$ ^attempted/attempt<vblex><past>/attempt<vblex><pp>$ ^to/to<pr>$ ^kill/kill<n><sg>/kill<vblex><inf>/kill<vblex><pres>$ ^herself/herself<prn><ref><p3><f><sg>$
+^I/prpers<prn><subj><p1><mf><sg>$ ^twisted/twist<vblex><past>/twist<vblex><pp>$ ^my/my<det><pos><sp>$ ^ankle/ankle<n><sg>$
+^The/The<det><def><sp>$ ^thermometer/thermometer<n><sg>$ ^reads/read<n><pl>/read<vblex><pri><p3><sg>$ ^30/30<num>$ ^degrees/degree<n><pl>$
+^He/Prpers<prn><subj><p3><m><sg>$ ^is/be<vbser><pri><p3><sg>$ ^named/name<vblex><past>/name<vblex><pp>$ ^Jeff/Jeff<n><sg>$ ^by/by<pr>$ ^everyone/everyone<prn><tn><m><sg>$

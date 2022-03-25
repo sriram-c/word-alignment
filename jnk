@@ -1,0 +1,280 @@
+Mr. Brown is looking for his glasses	mistara brAuna apanA caSmA DUMDa rahe hEM
+({'Brown': ['Brown'], 'his': ['his'], 'for': ['for'], 'is': ['be'], 'looking': ['look'], 'Mr.': ['Mr'], 'glasses': ['glass']}, '\n')
+({'caSmA': ['caSmA'], 'DUMDa': ['DUMDa'], 'rahe': ['raha'], 'mistara': ['mistara'], 'apanA': ['apanA'], 'hEM': ['hE'], 'brAuna': ['brAuna']}, '\n')
+{'Brown': 'brAuna', 'is': 'hEM', 'his': 'apanA', 'Mr.': 'mistara', 'glasses': 'caSmA'}
+#############################################
+Miss Jackson did not appear	misa jEksana  nahIM AI
+({'did': ['do'], 'Jackson': ['Jackson'], 'not': ['not'], 'Miss': ['Miss'], 'appear': ['appear']}, '\n')
+({'AI': ['A'], 'jEksana': ['jEksana'], 'nahIM': ['nahIM'], 'misa': ['misa']}, '\n')
+{'did': 'AI', 'not': 'nahIM', 'Jackson': 'jEksana', 'Miss': 'misa'}
+#############################################
+Tom had his socks on inside out	toYma ne apane moje  ulate pahane  We
+({'on': ['on'], 'his': ['his'], 'inside': ['inside'], 'had': ['have'], 'socks': ['sock'], 'Tom': ['Tom'], 'out': ['out']}, '\n')
+({'We': ['WA'], 'toYma': ['toYma'], 'ne': ['ne'], 'apane': ['apanA'], 'ulate': ['ulata'], 'moje': ['mojA'], 'pahane': ['pahana']}, '\n')
+{'socks': 'moje', 'Tom': 'toYma'}
+#############################################
+I got my hair cut	mEMne apane bAla katavA lie
+({'I': ['prpers'], 'got': ['get'], 'hair': ['hair'], 'cut': ['cut'], 'my': ['my']}, '\n')
+({'lie': ['le'], 'apane': ['apanA'], 'katavA': ['katavA'], 'mEMne': ['mEM'], 'bAla': ['bAla']}, '\n')
+{'I': 'mEMne', 'got': 'lie', 'hair': 'bAla'}
+#############################################
+The ice will give under your weight	barPa  Apake  vajana  ke nice tUta jAegI
+({'weight': ['weight'], 'give': ['give'], 'ice': ['ice'], 'will': ['will'], 'under': ['under'], 'The': ['The'], 'your': ['your']}, '\n')
+({'jAegI': ['jA'], 'vajana': ['vajana'], 'ke': ['kA'], 'tUta': ['tUta'], 'Apake': ['Apa'], 'barPa': ['barPa'], 'nice': ['nice']}, '\n')
+{'weight': 'vajana', 'your': 'Apake', 'ice': 'barPa'}
+#############################################
+Court's adjourned	axAlawa sWagiwa kara xI jAwI hE
+({'Court': ["'s", 'Court'], 'adjourned': ['adjourn']}, '\n')
+({'xI': ['xe'], 'jAwI': ['jA'], 'sWagiwa': ['sWagiwa'], 'kara': ['kara'], 'axAlawa': ['axAlawa'], 'hE': ['ho', 'hE']}, '\n')
+{}
+#############################################
+It's a quarter past nine	savA nO baja cuke hE
+({'a': ['a'], 'past': ['past'], 'quarter': ['quarter'], 'nine': ['nine'], 'It': ['Prpers', "'s"]}, '\n')
+({'baja': ['baja'], 'hE': ['ho', 'hE'], 'nO': ['nO'], 'cuke': ['cuka'], 'savA': ['savA']}, '\n')
+{'nine': 'nO'}
+#############################################
+The cat meowed	billI ne myAUM kiyA
+({'meowed': ['meowed'], 'The': ['The'], 'cat': ['cat']}, '\n')
+({'billI': ['billA', 'billI'], 'myAUM': ['myAUM'], 'ne': ['ne'], 'kiyA': ['kara']}, '\n')
+{'cat': 'billI'}
+#############################################
+I got some money from an ATM	mEMne etIema se kuCa pEse nikale
+({'from': ['from'], 'I': ['prpers'], 'money': ['money'], 'ATM': ['ATM'], 'some': ['some'], 'an': ['an'], 'got': ['get']}, '\n')
+({'pEse': ['pEsA'], 'nikale': ['nikala'], 'mEMne': ['mEM'], 'kuCa': ['kuCa'], 'etIema': ['etIema'], 'se': ['sA', 'se']}, '\n')
+{'from': 'se', 'I': 'mEMne', 'money': 'pEse', 'ATM': 'etIema', 'some': 'kuCa', 'got': 'nikale'}
+#############################################
+I had my bicycle stolen	mEMne apanI sAikila kI corI karavAI
+({'I': ['prpers'], 'my': ['my'], 'bicycle': ['bicycle'], 'stolen': ['steal'], 'had': ['have']}, '\n')
+({'karavAI': ['karavA'], 'kI': ['kA', 'kara', 'kI'], 'mEMne': ['mEM'], 'corI': ['corI'], 'sAikila': ['sAikila'], 'apanI': ['apanI', 'apanA']}, '\n')
+{'I': 'mEMne', 'bicycle': 'sAikila'}
+#############################################
+I've never climbed Mt	mEMne kaBI mAuMta para caDAI nahIM kI hE
+({'I': ['prpers', "'"], 'Mt': ['Mt'], 'never': ['never'], 'climbed': ['climb']}, '\n')
+({'para': ['para'], 'kI': ['kA', 'kara', 'kI'], 'kaBI': ['kaBI'], 'mEMne': ['mEM'], 'caDAI': ['caDA', 'caDAI'], 'mAuMta': ['mAuMta'], 'nahIM': ['nahIM'], 'hE': ['ho', 'hE']}, '\n')
+{'climbed': 'caDAI'}
+#############################################
+What is the scientific name for leech	joMka kA vEjFAnika  nAma  kyA hE
+({'What': ['What'], 'name': ['name'], 'for': ['for'], 'is': ['be'], 'the': ['the'], 'leech': ['leech'], 'scientific': ['scientific']}, '\n')
+({'nAma': ['nAma'], 'kA': ['kA'], 'kyA': ['kyA'], 'joMka': ['joMka'], 'vEjFAnika': ['vEjFAnika'], 'hE': ['ho', 'hE']}, '\n')
+{'What': 'kyA', 'is': 'hE', 'name': 'nAma', 'scientific': 'vEjFAnika'}
+#############################################
+You stink of cigarettes	Apase sigareta kI baxabU A rahI  hE
+({'of': ['of'], 'You': ['Prpers'], 'stink': ['stink'], 'cigarettes': ['cigarette']}, '\n')
+({'A': ['A'], 'baxabU': ['baxabU'], 'kI': ['kA', 'kara', 'kI'], 'Apase': ['Apa'], 'sigareta': ['sigareta'], 'rahI': ['raha'], 'hE': ['ho', 'hE']}, '\n')
+{'of': 'kI', 'You': 'Apase', 'stink': 'baxabU', 'cigarettes': 'sigareta'}
+#############################################
+Susan shined your father's shoes	susAna ne Apake piwA ke jUwe camakAe
+({'shoes': ['shoe'], 'father': ["'s", 'father'], 'your': ['your'], 'shined': ['shine'], 'Susan': ['Susan']}, '\n')
+({'susAna': ['susAna'], 'jUwe': ['jUwA'], 'ke': ['kA'], 'Apake': ['Apa'], 'ne': ['ne'], 'piwA': ['piwA'], 'camakAe': ['camakA']}, '\n')
+{'shoes': 'jUwe', 'shined': 'camakAe', 'your': 'Apake'}
+#############################################
+I owe her thirty dollars	muJe use wIsa doYlara xene hE.
+({'I': ['prpers'], 'owe': ['owe'], 'dollars': ['dollar'], 'thirty': ['thirty'], 'her': ['prpers', 'her']}, '\n')
+({'wIsa': ['wIsa'], 'doYlara': ['doYlara'], 'use': ['vaha'], 'muJe': ['mEM'], 'xene': ['xenA', 'xe'], 'hE': ['ho', 'hE']}, '\n')
+{'I': 'muJe', 'thirty': 'wIsa', 'her': 'use'}
+#############################################
+What an interesting novel this is	yaha  kiwanI xilacapsa upanyAsa hE
+({'What': ['What'], 'novel': ['novel'], 'this': ['this'], 'interesting': ['interesting', 'interest'], 'is': ['be'], 'an': ['an']}, '\n')
+({'kiwanI': ['kiwanA', 'kiwanI'], 'hE': ['ho', 'hE'], 'upanyAsa': ['upanyAsa'], 'xilacapsa': ['xilacapsa'], 'yaha': ['yaha']}, '\n')
+{'this': 'yaha', 'What': 'kiwanI', 'novel': 'upanyAsa', 'is': 'hE'}
+#############################################
+Let's not go to that restaurant again	usa restoreMta meM Pira se nahIM jAwe hE
+({'again': ['again'], 'to': ['to'], 'restaurant': ['restaurant'], 'that': ['that'], 'go': ['go'], 'Let': ["'s", 'Let'], 'not': ['not']}, '\n')
+({'usa': ['vaha'], 'meM': ['meM'], 'Pira': ['Pira'], 'restoreMta': ['restoreMta'], 'nahIM': ['nahIM'], 'hE': ['ho', 'hE'], 'se': ['sA', 'se'], 'jAwe': ['jA']}, '\n')
+{'not': 'nahIM', 'go': 'jAwe', 'again': 'Pira', 'that': 'usa', 'to': 'se'}
+#############################################
+The mothers sew	mAwAeM  silAI  karawI  hEM
+({'sew': ['sew'], 'The': ['The'], 'mothers': ['mother']}, '\n')
+({'karawI': ['kara'], 'silAI': ['silA', 'silAI'], 'mAwAeM': ['mAwAeM'], 'hEM': ['hE']}, '\n')
+{}
+#############################################
+Tom drove to school	toYma gAdI calA ke skUla gayA
+({'to': ['to'], 'school': ['school'], 'drove': ['drove', 'drive'], 'Tom': ['Tom']}, '\n')
+({'toYma': ['toYma'], 'gAdI': ['gAdI', 'gAda'], 'ke': ['kA'], 'gayA': ['jA'], 'skUla': ['skUla'], 'calA': ['calA', 'cala']}, '\n')
+{'school': 'skUla', 'drove': 'calA', 'Tom': 'toYma'}
+#############################################
+Maybe I exaggerated	SAyaxa mEMne awiraMjiwa kiyA
+({'I': ['prpers'], 'Maybe': ['Maybe'], 'exaggerated': ['exaggerated', 'exaggerate']}, '\n')
+({'awiraMjiwa': ['awiraMjiwa'], 'SAyaxa': ['SAyaxa'], 'kiyA': ['kara'], 'mEMne': ['mEM']}, '\n')
+{'I': 'mEMne', 'Maybe': 'SAyaxa'}
+#############################################
+A bee buzzes	maXumakKI gUMjawI hE
+({'A': ['A'], 'buzzes': ['buzz'], 'bee': ['bee']}, '\n')
+({'gUMjawI': ['gUMjawI'], 'maXumakKI': ['maXumakKI'], 'hE': ['ho', 'hE']}, '\n')
+{'bee': 'maXumakKI'}
+#############################################
+He gave her mouth-to-mouth resuscitation	usane use mAuWa tU mAuWa se punarjIvana kiyA
+({'gave': ['give'], 'resuscitation': ['resuscitation'], 'mouth-to-mouth': ['mouth-to-mouth'], 'her': ['prpers', 'her'], 'He': ['Prpers']}, '\n')
+({'use': ['vaha'], 'usane': ['vaha'], 'kiyA': ['kara'], 'tU': ['tU'], 'punarjIvana': ['punarjIvana'], 'mAuWa': ['mAuWa'], 'se': ['sA', 'se']}, '\n')
+{'gave': 'kiyA', 'her': 'usane', 'He': 'usane'}
+#############################################
+We ate some turtle soup	hamane WodA kaCue kA sUpa piyA
+({'turtle': ['turtle'], 'soup': ['soup'], 'We': ['Prpers'], 'ate': ['eat'], 'some': ['some']}, '\n')
+({'kA': ['kA'], 'hamane': ['mEM'], 'WodA': ['WodA'], 'piyA': ['pI'], 'kaCue': ['kaCuA'], 'sUpa': ['sUpa']}, '\n')
+{'turtle': 'kaCue', 'soup': 'sUpa', 'We': 'hamane', 'ate': 'piyA'}
+#############################################
+I met a wolf in a dream	mEMne eka sapane meM eka Bediye se milA
+({'a': ['a'], 'I': ['prpers'], 'met': ['meet'], 'wolf': ['wolf'], 'in': ['in'], 'dream': ['dream']}, '\n')
+({'meM': ['meM'], 'mEMne': ['mEM'], 'eka': ['eka'], 'milA': ['mila', 'milA'], 'Bediye': ['BediyA'], 'sapane': ['sapanA'], 'se': ['sA', 'se']}, '\n')
+{'a': 'eka', 'I': 'mEMne', 'met': 'milA', 'wolf': 'Bediye', 'in': 'meM', 'dream': 'sapane'}
+#############################################
+What does the abbreviation GIA stand for	jIAIe kA pUrNa nAma kyA hE
+({'What': ['What'], 'for': ['for'], 'abbreviation': ['abbreviation'], 'does': ['do'], 'stand': ['stand'], 'GIA': ['GIA'], 'the': ['the']}, '\n')
+({'nAma': ['nAma'], 'kA': ['kA'], 'kyA': ['kyA'], 'pUrNa': ['pUrNa'], 'jIAIe': ['jIAIe'], 'hE': ['ho', 'hE']}, '\n')
+{'What': 'kyA', 'does': 'hE', 'stand': 'hE'}
+#############################################
+I missed the 7:00 train	merI 7 baje kI trEna CUta gayI
+({'I': ['prpers'], 'the': ['the'], 'train': ['train'], 'missed': ['miss'], '7': ['00', ':', '7']}, '\n')
+({'gayI': ['jA'], 'CUta': ['CUta'], 'kI': ['kA', 'kara', 'kI'], 'trEna': ['trEna'], 'merI': ['mEM'], '7': ['7'], 'baje': ['baja']}, '\n')
+{'I': 'merI', 'train': 'trEna'}
+#############################################
+Tom pocketed the keys	toYma ne cAbiyAz jeba meM raKIM
+({'keys': ['key'], 'pocketed': ['pocket'], 'the': ['the'], 'Tom': ['Tom']}, '\n')
+({'raKIM': ['raKa'], 'toYma': ['toYma'], 'meM': ['meM'], 'ne': ['ne'], 'cAbiyAz': ['cAbI'], 'jeba': ['jeba']}, '\n')
+{'keys': 'cAbiyAz', 'pocketed': 'jeba', 'Tom': 'toYma'}
+#############################################
+Tom turned a somersault	toYma ne somarasoYlta kiyA
+({'a': ['a'], 'turned': ['turn'], 'somersault': ['somersault'], 'Tom': ['Tom']}, '\n')
+({'somarasoYlta': ['somarasoYlta'], 'toYma': ['toYma'], 'ne': ['ne'], 'kiyA': ['kara']}, '\n')
+{'Tom': 'toYma'}
+#############################################
+The drug smuggler was arrested at the airport	eyaraporta para draga waskara ko giraPwAra kiyA gayA
+({'arrested': ['arrest'], 'drug': ['drug'], 'airport': ['airport'], 'smuggler': ['smuggler'], 'at': ['at'], 'The': ['The'], 'was': ['be'], 'the': ['the']}, '\n')
+({'para': ['para'], 'draga': ['draga'], 'gayA': ['jA'], 'ko': ['ko'], 'eyaraporta': ['eyaraporta'], 'waskara': ['waskara'], 'kiyA': ['kara'], 'giraPwAra': ['giraPwAra']}, '\n')
+{'smuggler': 'waskara', 'at': 'para', 'drug': 'draga'}
+#############################################
+How much is this worth	isakA kyA mUlya hE
+({'this': ['this'], 'How': ['How'], 'is': ['be'], 'much': ['much'], 'worth': ['worth']}, '\n')
+({'mUlya': ['mUlya'], 'kyA': ['kyA'], 'isakA': ['yaha'], 'hE': ['ho', 'hE']}, '\n')
+{'this': 'isakA', 'is': 'hE', 'worth': 'mUlya'}
+#############################################
+She stained the wall beige	usane xIvAra para beja raMga kA XabbA lagA xiyA
+({'wall': ['wall'], 'the': ['the'], 'stained': ['stain'], 'She': ['Prpers'], 'beige': ['beige']}, '\n')
+({'kA': ['kA'], 'usane': ['vaha'], 'para': ['para'], 'xiyA': ['xiyA', 'xe'], 'beja': ['beja'], 'raMga': ['raMga'], 'XabbA': ['XabbA'], 'lagA': ['lagA', 'laga'], 'xIvAra': ['xIvAra']}, '\n')
+{'wall': 'xIvAra', 'the': 'usane', 'stained': 'XabbA', 'She': 'usane'}
+#############################################
+The boy carved his name into the tree	ladake ne pedZa para apane nAma kI nakkASI kI
+({'boy': ['boy'], 'his': ['his'], 'name': ['name'], 'into': ['into'], 'tree': ['tree'], 'carved': ['carve'], 'The': ['The'], 'the': ['the']}, '\n')
+({'nAma': ['nAma'], 'ladake': ['ladakA'], 'pedZa': ['pedZa'], 'para': ['para'], 'kI': ['kA', 'kara', 'kI'], 'ne': ['ne'], 'apane': ['apanA'], 'nakkASI': ['nakkASI']}, '\n')
+{'boy': 'ladake', 'name': 'nAma'}
+#############################################
+I've been subpoenaed	muJe sabapInA kiyA gayA hE
+({'I': ['prpers', "'"], 'subpoenaed': ['subpoena'], 'been': ['be']}, '\n')
+({'gayA': ['jA'], 'hE': ['ho', 'hE'], 'muJe': ['mEM'], 'kiyA': ['kara'], 'sabapInA': ['sabapInA']}, '\n')
+{'been': 'hE'}
+#############################################
+A man is holding a frog	eka AxamI ne meMDaka pakada raKA hE
+({'A': ['A'], 'a': ['a'], 'is': ['be'], 'frog': ['frog'], 'holding': ['hold', 'holding'], 'man': ['man']}, '\n')
+({'meMDaka': ['meMDaka'], 'ne': ['ne'], 'eka': ['eka'], 'raKA': ['raKa', 'raKA'], 'pakada': ['pakada'], 'AxamI': ['AxamI'], 'hE': ['ho', 'hE']}, '\n')
+{'A': 'eka', 'a': 'eka', 'is': 'hE', 'holding': 'pakada', 'man': 'AxamI'}
+#############################################
+Something bit me	muJe kisI cIja ne kAtA
+({'me': ['prpers'], 'bit': ['bit', 'bite'], 'Something': ['Something']}, '\n')
+({'kAtA': ['kAta'], 'cIja': ['cIja'], 'kisI': ['kisI'], 'muJe': ['mEM'], 'ne': ['ne']}, '\n')
+{'bit': 'kAtA'}
+#############################################
+The clocks in the city were striking ten	nagara kI GadiyoM para xasa baja rahe We
+({'city': ['city'], 'ten': ['ten'], 'striking': ['strike', 'striking'], 'in': ['in'], 'clocks': ['clock'], 'were': ['be'], 'The': ['The'], 'the': ['the']}, '\n')
+({'We': ['WA'], 'nagara': ['nagara'], 'para': ['para'], 'GadiyoM': ['GadI', 'GadA'], 'kI': ['kA', 'kara', 'kI'], 'rahe': ['raha'], 'baja': ['baja'], 'xasa': ['xasa']}, '\n')
+{'city': 'nagara', 'ten': 'xasa', 'striking': 'baja', 'in': 'kI', 'clocks': 'GadiyoM', 'were': 'rahe'}
+#############################################
+His pencil has been sharpened	XAra usakI kalama kI XAra ko weja kiyA gayA hE
+({'pencil': ['pencil'], 'sharpened': ['sharpen'], 'His': ['His'], 'been': ['be'], 'has': ['have']}, '\n')
+({'usakI': ['vaha'], 'kalama': ['kalama'], 'kiyA': ['kara'], 'kI': ['kA', 'kara', 'kI'], 'ko': ['ko'], 'weja': ['weja'], 'gayA': ['jA'], 'XAra': ['XAra'], 'hE': ['ho', 'hE']}, '\n')
+{'has': 'hE', 'been': 'hE'}
+#############################################
+The thermometer reads 10 degrees	WarmAmItara para 10 digrI xiKa  rahA hE
+({'10': ['10'], 'The': ['The'], 'degrees': ['degree'], 'reads': ['read'], 'thermometer': ['thermometer']}, '\n')
+({'10': ['10'], 'rahA': ['raha'], 'para': ['para'], 'WarmAmItara': ['WarmAmItara'], 'digrI': ['digrI'], 'xiKa': ['xiKa'], 'hE': ['ho', 'hE']}, '\n')
+{'degrees': 'digrI', 'thermometer': 'WarmAmItara'}
+#############################################
+No one's gambling	koI juA nahIM Kela rahA hE
+({'gambling': ['gambling', 'gamble'], 'one': ["'s", 'one'], 'No': ['No']}, '\n')
+({'koI': ['koI'], 'rahA': ['raha'], 'juA': ['juA'], 'Kela': ['Kela'], 'nahIM': ['nahIM'], 'hE': ['ho', 'hE']}, '\n')
+{'gambling': 'juA', 'No': 'nahIM'}
+#############################################
+The top of Mt	mAuMta evaresta kI cotI
+({'of': ['of'], 'The': ['The'], 'top': ['top'], 'Mt': ['Mt']}, '\n')
+({'kI': ['kA', 'kara', 'kI'], 'mAuMta': ['mAuMta'], 'evaresta': ['evaresta'], 'cotI': ['cotI']}, '\n')
+{'of': 'kI', 'top': 'cotI'}
+#############################################
+The teapot broke	cAyaxAnI tUta gayI
+({'The': ['The'], 'teapot': ['teapot'], 'broke': ['break']}, '\n')
+({'tUta': ['tUta'], 'gayI': ['jA'], 'cAyaxAnI': ['cAyaxAnI']}, '\n')
+{'teapot': 'cAyaxAnI', 'broke': 'tUta'}
+#############################################
+We always looked down on him	hama hameSA use nIci najara se xeKawe We
+({'down': ['down'], 'We': ['Prpers'], 'on': ['on'], 'always': ['always'], 'looked': ['look'], 'him': ['prpers']}, '\n')
+({'use': ['vaha'], 'hameSA': ['hameSA'], 'xeKawe': ['xeKa'], 'We': ['WA'], 'najara': ['najara'], 'nIci': ['nIci'], 'hama': ['mEM'], 'se': ['sA', 'se']}, '\n')
+{'looked': 'xeKawe', 'always': 'hameSA', 'We': 'hama', 'him': 'use'}
+#############################################
+Tom had jet lag	toYma ko  jeta lEga WA
+({'lag': ['lag'], 'had': ['have'], 'jet': ['jet'], 'Tom': ['Tom']}, '\n')
+({'lEga': ['lEga'], 'jeta': ['jeta'], 'toYma': ['toYma'], 'ko': ['ko'], 'WA': ['WA']}, '\n')
+{'Tom': 'toYma'}
+#############################################
+Shall I carry your coat	kyA meM ApakA kota uTA lUz
+({'I': ['prpers'], 'carry': ['carry'], 'coat': ['coat'], 'your': ['your'], 'Shall': ['Shall']}, '\n')
+({'uTA': ['uTA', 'uTa'], 'meM': ['meM'], 'kyA': ['kyA'], 'ApakA': ['Apa'], 'lUz': ['le'], 'kota': ['kota']}, '\n')
+{'carry': 'uTA', 'coat': 'kota', 'your': 'ApakA'}
+#############################################
+My wisdom tooth hurts	merA visdama xAMwa xarxa kara rahA hE
+({'tooth': ['tooth'], 'My': ['My'], 'hurts': ['hurt'], 'wisdom': ['wisdom']}, '\n')
+({'rahA': ['raha'], 'xarxa': ['xarxa'], 'kara': ['kara'], 'merA': ['mEM'], 'xAMwa': ['xAMwa'], 'visdama': ['visdama'], 'hE': ['ho', 'hE']}, '\n')
+{'tooth': 'xAMwa'}
+#############################################
+I can't kiss you now	mEM aba Apase cuMbana nahIM kara sakawA
+({'I': ['prpers'], 'you': ['prpers'], 'now': ['now'], 'can': ['can', "'"], 'kiss': ['kiss']}, '\n')
+({'aba': ['aba'], 'cuMbana': ['cuMbana'], 'mEM': ['mEM'], 'sakawA': ['saka'], 'Apase': ['Apa'], 'kara': ['kara'], 'nahIM': ['nahIM']}, '\n')
+{'I': 'mEM', 'you': 'Apase', 'now': 'aba'}
+#############################################
+I had a tooth pulled	mEMne eka xAMwa nikalavAyA WA.
+({'I': ['prpers'], 'a': ['a'], 'had': ['have'], 'pulled': ['pull'], 'tooth': ['tooth']}, '\n')
+({'WA': ['WA'], 'xAMwa': ['xAMwa'], 'mEMne': ['mEM'], 'eka': ['eka'], 'nikalavAyA': ['nikalavA']}, '\n')
+{'I': 'mEMne', 'a': 'eka', 'tooth': 'xAMwa'}
+#############################################
+The penis entered the vagina	SiSna ne yoni meM praveSa kiyA
+({'penis': ['penis'], 'the': ['the'], 'The': ['The'], 'vagina': ['vagina'], 'entered': ['enter']}, '\n')
+({'praveSa': ['praveSa'], 'kiyA': ['kara'], 'meM': ['meM'], 'yoni': ['yoni'], 'ne': ['ne'], 'SiSna': ['SiSna']}, '\n')
+{'vagina': 'yoni'}
+#############################################
+Her villa sits on the hill	usakA vilA pahAda para hE
+({'on': ['on'], 'villa': ['villa'], 'Her': ['Prpers', 'Her'], 'hill': ['hill'], 'the': ['the'], 'sits': ['sit']}, '\n')
+({'usakA': ['usakA', 'vaha'], 'vilA': ['vilA'], 'pahAda': ['pahAda'], 'para': ['para'], 'hE': ['ho', 'hE']}, '\n')
+{'on': 'para', 'the': 'usakA', 'villa': 'vilA', 'Her': 'usakA', 'hill': 'pahAda'}
+#############################################
+Tom split the bill with Mary	mEM maCalI grila kara rahA hUz
+({'bill': ['bill'], 'split': ['split'], 'Tom': ['Tom'], 'the': ['the'], 'with': ['with'], 'Mary': ['Mary']}, '\n')
+({'maCalI': ['maCalI'], 'rahA': ['raha'], 'mEM': ['mEM'], 'grila': ['grila'], 'kara': ['kara'], 'hUz': ['hE']}, '\n')
+{}
+#############################################
+Mary giggled	mErI KisiyAI
+({'Mary': ['Mary'], 'giggled': ['giggle']}, '\n')
+({'KisiyAI': ['KisiyA'], 'mErI': ['mErI']}, '\n')
+{}
+#############################################
+That was your plan, wasn't it	yaha wumhArI yojanA WI , hE na
+({'That': ['That'], 'it': ['prpers'], 'plan': ['plan', ','], 'wasn': ["'"], 'was': ['be'], 'your': ['your']}, '\n')
+({'yojanA': ['yojanA'], 'yaha': ['yaha'], 'na': ['na'], 'WI': ['WI'], 'wumhArI': ['wU', 'wuma'], 'hE': ['ho', 'hE']}, '\n')
+{'was': 'hE', 'it': 'yaha', 'That': 'yaha'}
+#############################################
+She attempted to kill herself	usane Kuxa ko jAna se mArane kI koSiSa kI
+({'herself': ['herself'], 'attempted': ['attempt'], 'kill': ['kill'], 'She': ['Prpers'], 'to': ['to']}, '\n')
+({'usane': ['vaha'], 'mArane': ['mAranA', 'mAra'], 'Kuxa': ['Kuxa'], 'kI': ['kA', 'kara', 'kI'], 'ko': ['ko'], 'koSiSa': ['koSiSa'], 'jAna': ['jAna'], 'se': ['sA', 'se']}, '\n')
+{'to': 'ko', 'kill': 'mArane', 'She': 'usane'}
+#############################################
+I twisted my ankle	merA taKanA muxa gayA
+({'I': ['prpers'], 'ankle': ['ankle'], 'my': ['my'], 'twisted': ['twist']}, '\n')
+({'merA': ['mEM'], 'gayA': ['jA'], 'taKanA': ['taKanA'], 'muxa': ['muxa']}, '\n')
+{'I': 'merA', 'ankle': 'taKanA'}
+#############################################
+The thermometer reads 30 degrees	WarmAmItara 30 digrI xiKA rahA hE
+({'The': ['The'], '30': ['30'], 'degrees': ['degree'], 'reads': ['read'], 'thermometer': ['thermometer']}, '\n')
+({'rahA': ['raha'], 'WarmAmItara': ['WarmAmItara'], '30': ['30'], 'digrI': ['digrI'], 'xiKA': ['xiKA', 'xiKa'], 'hE': ['ho', 'hE']}, '\n')
+{'reads': 'xiKA', 'degrees': 'digrI', 'thermometer': 'WarmAmItara'}
+#############################################
+He is named Jeff by everyone	usakA nAma hara kisI ne jePa raKA hE
+({'named': ['name'], 'everyone': ['everyone'], 'Jeff': ['Jeff'], 'is': ['be'], 'by': ['by'], 'He': ['Prpers']}, '\n')
+({'nAma': ['nAma'], 'jePa': ['jePa'], 'usakA': ['usakA', 'vaha'], 'kisI': ['kisI'], 'ne': ['ne'], 'hara': ['hara'], 'raKA': ['raKa', 'raKA'], 'hE': ['ho', 'hE']}, '\n')
+{'is': 'hE', 'named': 'nAma', 'He': 'usakA'}
+#############################################

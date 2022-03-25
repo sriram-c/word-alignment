@@ -1,0 +1,5 @@
+1. Read all the resources (eng hnd dic, tam dic, root list)
+2. group eng chunk using stanford parser
+3. find the verb group and tam 
+4. match each small group independently
+5. match the tam and Verb group

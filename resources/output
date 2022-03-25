@@ -1,0 +1,168 @@
+Mr. Brown is looking for his glasses	mistara brAuna apanA caSmA DUMDa rahe hEM
+{'Brown': 'brAuna', 'is': 'hEM', 'his': 'apanA', 'Mr.': 'mistara', 'glasses': 'caSmA'}
+---------
+Miss Jackson did not appear	misa jEksana  nahIM AI
+{'did': 'AI', 'not': 'nahIM', 'Jackson': 'jEksana', 'Miss': 'misa'}
+---------
+Tom had his socks on inside out	toYma ne apane moje  ulate pahane  We
+{'socks': 'moje', 'Tom': 'toYma'}
+---------
+I got my hair cut	mEMne apane bAla katavA lie
+{'I': 'mEMne', 'got': 'lie', 'hair': 'bAla'}
+---------
+The ice will give under your weight	barPa  Apake  vajana  ke nice tUta jAegI
+{'weight': 'vajana', 'your': 'Apake', 'ice': 'barPa'}
+---------
+Court's adjourned	axAlawa sWagiwa kara xI jAwI hE
+{}
+---------
+It's a quarter past nine	savA nO baja cuke hE
+{'nine': 'nO'}
+---------
+The cat meowed	billI ne myAUM kiyA
+{'cat': 'billI'}
+---------
+I got some money from an ATM	mEMne etIema se kuCa pEse nikale
+{'from': 'se', 'I': 'mEMne', 'money': 'pEse', 'ATM': 'etIema', 'some': 'kuCa', 'got': 'nikale'}
+---------
+I had my bicycle stolen	mEMne apanI sAikila kI corI karavAI
+{'I': 'mEMne', 'bicycle': 'sAikila'}
+---------
+I've never climbed Mt	mEMne kaBI mAuMta para caDAI nahIM kI hE
+{'climbed': 'caDAI'}
+---------
+What is the scientific name for leech	joMka kA vEjFAnika  nAma  kyA hE
+{'What': 'kyA', 'is': 'hE', 'name': 'nAma', 'scientific': 'vEjFAnika'}
+---------
+You stink of cigarettes	Apase sigareta kI baxabU A rahI  hE
+{'of': 'kI', 'You': 'Apase', 'stink': 'baxabU', 'cigarettes': 'sigareta'}
+---------
+Susan shined your father's shoes	susAna ne Apake piwA ke jUwe camakAe
+{'shoes': 'jUwe', 'shined': 'camakAe', 'your': 'Apake'}
+---------
+I owe her thirty dollars	muJe use wIsa doYlara xene hE.
+{'I': 'muJe', 'thirty': 'wIsa', 'her': 'use'}
+---------
+What an interesting novel this is	yaha  kiwanI xilacapsa upanyAsa hE
+{'this': 'yaha', 'What': 'kiwanI', 'novel': 'upanyAsa', 'is': 'hE'}
+---------
+Let's not go to that restaurant again	usa restoreMta meM Pira se nahIM jAwe hE
+{'not': 'nahIM', 'go': 'jAwe', 'again': 'Pira', 'that': 'usa', 'to': 'se'}
+---------
+The mothers sew	mAwAeM  silAI  karawI  hEM
+{}
+---------
+Tom drove to school	toYma gAdI calA ke skUla gayA
+{'school': 'skUla', 'drove': 'calA', 'Tom': 'toYma'}
+---------
+Maybe I exaggerated	SAyaxa mEMne awiraMjiwa kiyA
+{'I': 'mEMne', 'Maybe': 'SAyaxa'}
+---------
+A bee buzzes	maXumakKI gUMjawI hE
+{'bee': 'maXumakKI'}
+---------
+He gave her mouth-to-mouth resuscitation	usane use mAuWa tU mAuWa se punarjIvana kiyA
+{'gave': 'kiyA', 'her': 'usane', 'He': 'usane'}
+---------
+We ate some turtle soup	hamane WodA kaCue kA sUpa piyA
+{'turtle': 'kaCue', 'soup': 'sUpa', 'We': 'hamane', 'ate': 'piyA'}
+---------
+I met a wolf in a dream	mEMne eka sapane meM eka Bediye se milA
+{'a': 'eka', 'I': 'mEMne', 'met': 'milA', 'wolf': 'Bediye', 'in': 'meM', 'dream': 'sapane'}
+---------
+What does the abbreviation GIA stand for	jIAIe kA pUrNa nAma kyA hE
+{'What': 'kyA', 'does': 'hE', 'stand': 'hE'}
+---------
+I missed the 7:00 train	merI 7 baje kI trEna CUta gayI
+{'I': 'merI', 'train': 'trEna'}
+---------
+Tom pocketed the keys	toYma ne cAbiyAz jeba meM raKIM
+{'keys': 'cAbiyAz', 'pocketed': 'jeba', 'Tom': 'toYma'}
+---------
+Tom turned a somersault	toYma ne somarasoYlta kiyA
+{'Tom': 'toYma'}
+---------
+The drug smuggler was arrested at the airport	eyaraporta para draga waskara ko giraPwAra kiyA gayA
+{'smuggler': 'waskara', 'at': 'para', 'drug': 'draga'}
+---------
+How much is this worth	isakA kyA mUlya hE
+{'this': 'isakA', 'is': 'hE', 'worth': 'mUlya'}
+---------
+She stained the wall beige	usane xIvAra para beja raMga kA XabbA lagA xiyA
+{'wall': 'xIvAra', 'the': 'usane', 'stained': 'XabbA', 'She': 'usane'}
+---------
+The boy carved his name into the tree	ladake ne pedZa para apane nAma kI nakkASI kI
+{'boy': 'ladake', 'name': 'nAma'}
+---------
+I've been subpoenaed	muJe sabapInA kiyA gayA hE
+{'been': 'hE'}
+---------
+A man is holding a frog	eka AxamI ne meMDaka pakada raKA hE
+{'A': 'eka', 'a': 'eka', 'is': 'hE', 'holding': 'pakada', 'man': 'AxamI'}
+---------
+Something bit me	muJe kisI cIja ne kAtA
+{'bit': 'kAtA'}
+---------
+The clocks in the city were striking ten	nagara kI GadiyoM para xasa baja rahe We
+{'city': 'nagara', 'ten': 'xasa', 'striking': 'baja', 'in': 'kI', 'clocks': 'GadiyoM', 'were': 'rahe'}
+---------
+His pencil has been sharpened	XAra usakI kalama kI XAra ko weja kiyA gayA hE
+{'has': 'hE', 'been': 'hE'}
+---------
+The thermometer reads 10 degrees	WarmAmItara para 10 digrI xiKa  rahA hE
+{'degrees': 'digrI', 'thermometer': 'WarmAmItara'}
+---------
+No one's gambling	koI juA nahIM Kela rahA hE
+{'gambling': 'juA', 'No': 'nahIM'}
+---------
+The top of Mt	mAuMta evaresta kI cotI
+{'of': 'kI', 'top': 'cotI'}
+---------
+The teapot broke	cAyaxAnI tUta gayI
+{'teapot': 'cAyaxAnI', 'broke': 'tUta'}
+---------
+We always looked down on him	hama hameSA use nIci najara se xeKawe We
+{'looked': 'xeKawe', 'always': 'hameSA', 'We': 'hama', 'him': 'use'}
+---------
+Tom had jet lag	toYma ko  jeta lEga WA
+{'Tom': 'toYma'}
+---------
+Shall I carry your coat	kyA meM ApakA kota uTA lUz
+{'carry': 'uTA', 'coat': 'kota', 'your': 'ApakA'}
+---------
+My wisdom tooth hurts	merA visdama xAMwa xarxa kara rahA hE
+{'tooth': 'xAMwa'}
+---------
+I can't kiss you now	mEM aba Apase cuMbana nahIM kara sakawA
+{'I': 'mEM', 'you': 'Apase', 'now': 'aba'}
+---------
+I had a tooth pulled	mEMne eka xAMwa nikalavAyA WA.
+{'I': 'mEMne', 'a': 'eka', 'tooth': 'xAMwa'}
+---------
+The penis entered the vagina	SiSna ne yoni meM praveSa kiyA
+{'vagina': 'yoni'}
+---------
+Her villa sits on the hill	usakA vilA pahAda para hE
+{'on': 'para', 'the': 'usakA', 'villa': 'vilA', 'Her': 'usakA', 'hill': 'pahAda'}
+---------
+Tom split the bill with Mary	mEM maCalI grila kara rahA hUz
+{}
+---------
+Mary giggled	mErI KisiyAI
+{}
+---------
+That was your plan, wasn't it	yaha wumhArI yojanA WI , hE na
+{'was': 'hE', 'it': 'yaha', 'That': 'yaha'}
+---------
+She attempted to kill herself	usane Kuxa ko jAna se mArane kI koSiSa kI
+{'to': 'ko', 'kill': 'mArane', 'She': 'usane'}
+---------
+I twisted my ankle	merA taKanA muxa gayA
+{'I': 'merA', 'ankle': 'taKanA'}
+---------
+The thermometer reads 30 degrees	WarmAmItara 30 digrI xiKA rahA hE
+{'reads': 'xiKA', 'degrees': 'digrI', 'thermometer': 'WarmAmItara'}
+---------
+He is named Jeff by everyone	usakA nAma hara kisI ne jePa raKA hE
+{'is': 'hE', 'named': 'nAma', 'He': 'usakA'}
+---------
